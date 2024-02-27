@@ -2,7 +2,7 @@
 
 Nombres: David Esteban Ortiz Ortiz - Camilo Gordillo
 
-##Clase entrada
+## Clase entrada
 ```
 package umariana.diario;
 
@@ -57,7 +57,7 @@ public class Entrada {
 }
 
 ```
-##Clase diario
+## Clase diario
 ```
 package umariana.diario;
 
